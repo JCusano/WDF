@@ -1,0 +1,3 @@
+gh-pages: https://github.com/JCusano/WDF/tree/gh-pages/lab2/Linking_It_Up
+index: http://jcusano.github.io/WDF/lab2/Linking_It_Up/index.html
+about: http://jcusano.github.io/WDF/lab2/Linking_It_Up/about.html

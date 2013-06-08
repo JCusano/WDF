@@ -1,0 +1,3 @@
+gh-pages: https://github.com/JCusano/WDF/tree/gh-pages/lab2
+recipe_fix: http://jcusano.github.io/WDF/lab2/recipe_fix.html
+site_validation: http://jcusano.github.io/WDF/lab2/site_validation.html
