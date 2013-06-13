@@ -1,0 +1,3 @@
+gh-pages: https://github.com/JCusano/WDF/tree/gh-pages/lab4
+html5_check.html:  http://jcusano.github.io/WDF/lab4/html5_check.html
+index.html:  http://jcusano.github.io/WDF/lab4/index.html
