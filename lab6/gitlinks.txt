@@ -1,0 +1,3 @@
+gh pages: https://github.com/JCusano/WDF/tree/gh-pages/lab6
+form: http://jcusano.github.io/WDF/lab6/forms.html
+table: http://jcusano.github.io/WDF/lab6/table.html
