@@ -1,0 +1,2 @@
+gh pages: https://github.com/JCusano/WDF/tree/gh-pages/lab5
+html5_elements: http://jcusano.github.io/WDF/lab5/html5_elements.html
