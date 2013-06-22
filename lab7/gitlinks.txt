@@ -1,0 +1,3 @@
+gh pages: https://github.com/JCusano/WDF/tree/gh-pages/lab7
+reviews: http://jcusano.github.io/WDF/lab7/reviews.html
+forms_html5: http://jcusano.github.io/WDF/lab7/forms_html5.html
